@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Finnish Full-Stack .Net Developet based in Stockholm :flag-se: :flag-fi: 🇫🇮 🇸🇪
+A Finnish Full-Stack .Net Developet based in Stockholm 🇫🇮 🇸🇪
 I love programming, math, gaming, drawing, tech(specifically computers) and cats!
 
 ### **Languages** 📃
