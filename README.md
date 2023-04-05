@@ -1,4 +1,4 @@
-### **About Atte** 🐈.•.•.•🐈‍⬛.•.•.•
+## **About Atte** 🐈.•.•.•🐈‍⬛.•.•.•
 
 <!--
 **attepitkaenen/attepitkaenen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A Finnish Full-Stack .Net Developet based in Stockholm 🇫🇮 🇸🇪  
 I love programming, math, gaming, drawing, tech(specifically computers) and cats!  
 
-### **Languages** 📃
+## **Languages** 📃
 ![c#](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/csharp/csharp_64x64.png?raw=true)
 ![typescript](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/typescript/typescript_64x64.png?raw=true) 
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/javascript/javascript_64x64.png?raw=true) 
@@ -30,5 +30,5 @@ I love programming, math, gaming, drawing, tech(specifically computers) and cats
 
 I have also tipped my toes in Java and Python!
 
-### **Where to contact?** 📨
+## **Where to contact?** 📨
 [LinkedIn](https://www.linkedin.com/in/atte-pitk%C3%A4nen-306608265/)
