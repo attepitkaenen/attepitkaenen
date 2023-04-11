@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ1NTFhMzI4OGQ1Yjk2NjI0ODlmZTBlNDFmNGEwOTQ3ZjBhMDZmZiZjdD1n/JVmYAO3MkGNiM/giphy.gif" width="200">
+
 ## **About Atte** 🐈.•.•.•🐈‍⬛.•.•.•
 
 <!--
