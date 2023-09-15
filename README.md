@@ -26,8 +26,8 @@ Here are some ideas to get you started:
  
 Pronouns: He/Him  
   
-A Finnish Full-Stack .Net Developet based in Stockholm 🇫🇮 🇸🇪  
-I love programming, math, gaming, drawing, tech (especially computers) and cats!  
+A Finnish Full-Stack .Net Developet based in Stockholm, Sweden 🇫🇮 🇸🇪  
+I love programming, math, gaming, drawing, tech (especially computers), 3d printing and cats!  
 
 ## **Tech Stack** 📚
 ![c#](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/csharp/csharp_64x64.png?raw=true)
@@ -36,7 +36,7 @@ I love programming, math, gaming, drawing, tech (especially computers) and cats!
 ![css](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/css/css_64x64.png?raw=true) 
 ![html](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/html/html_64x64.png?raw=true)  
 ***Frameworks:*** ASP.NET, EntityFramework, React, Node.js, RazorPages, Blazor, Dapper, SQL  
-***Technologies:*** Git, Azure, Docker, VSCode/VisualStudio  
+***Technologies:*** Git, Azure, Docker, VSCode/VisualStudio, AWS 
 ***Work Methods:*** Mob Programming, Agile, TDD  
 
 I have also tipped my toes in Java and Python!
