@@ -35,7 +35,7 @@ I love programming, math, gaming, drawing, tech (especially computers), 3d print
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/javascript/javascript_64x64.png?raw=true) 
 ![css](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/css/css_64x64.png?raw=true) 
 ![html](https://github.com/abrahamcalf/programming-languages-logos/raw/master/src/html/html_64x64.png?raw=true)  
-***Frameworks:*** ASP.NET, EntityFramework, React, Node.js, RazorPages, Blazor, Dapper, SQL  
+***Frameworks:*** ASP.NET, EntityFramework, React, Node.js, RazorPages, Blazor, Dapper, SQL, Angular  
 ***Technologies:*** Git, Azure, Docker, VSCode/VisualStudio, AWS  
 ***Work Methods:*** Mob Programming, Agile, TDD  
 
