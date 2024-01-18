@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
 Pronouns: He/Him  
   
-A Finnish Full-Stack .Net Developet based in Stockholm, Sweden 🇫🇮 🇸🇪  
+A Finnish Full-Stack .Net Developer based in Stockholm, Sweden 🇫🇮 🇸🇪  
 I love programming, math, gaming, drawing, tech (especially computers), 3d printing and cats!  
 
 ## **Tech Stack** 📚
