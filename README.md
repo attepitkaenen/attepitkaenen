@@ -38,8 +38,9 @@ I love programming, math, gaming, drawing, tech (especially computers), 3d print
 ***Frameworks:*** ASP.NET, EntityFramework, React, Node.js, RazorPages, Blazor, Dapper, SQL, Angular  
 ***Technologies:*** Git, Azure, Docker, VSCode/VisualStudio, AWS  
 ***Work Methods:*** Mob Programming, Agile, TDD  
-
-I have also tipped my toes in Java and Python!
+  
+I am currently learning C++  
+and I have also tipped my toes in Java and Python!
 
 ## **Where to contact?** 📨
 <div>
